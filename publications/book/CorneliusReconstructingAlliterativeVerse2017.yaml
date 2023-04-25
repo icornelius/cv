@@ -1,0 +1,17 @@
+references:
+- id: CorneliusReconstructingAlliterativeVerse2017
+  author:
+    - family: Cornelius
+      given: Ian
+  collection-number: '99'
+  collection-title: Cambridge Studies in Medieval Literature
+  event-place: Cambridge
+  ISBN: 978-1-107-15410-0
+  issued:
+    - year: 2017
+  language: en
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: 'Reconstructing alliterative verse: the pursuit of a medieval meter'
+  title-short: Reconstructing alliterative verse
+  type: book

@@ -1,0 +1,18 @@
+references:
+- id: CorneliusPiersPlowmanParalleltext2014
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusPiersPlowmanParalleltext2014
+  container-title: Medium Ævum
+  issue: '2'
+  issued:
+    - year: 2014
+  license: All rights reserved
+  page: 356-7
+  reviewed-author:
+    - family: Schmidt
+      given: A. V. C.
+  title: 'Piers Plowman: a parallel-text edition of the A, B, C and Z versions'
+  type: article-journal
+  volume: '83'

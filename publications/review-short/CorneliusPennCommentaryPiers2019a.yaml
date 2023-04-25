@@ -1,0 +1,19 @@
+references:
+- id: CorneliusPennCommentaryPiers2019b
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusPennCommentaryPiers2019b
+  container-title: Medium Ævum
+  issue: '2'
+  issued:
+    - year: 2019
+  page: 412-414
+  reviewed-author:
+    - family: Hanna
+      given: Ralph
+  title: >-
+    'The Penn Commentary on "Piers Plowman", Vol. 2: C Passūs 5–9; B Passūs 5–7;
+    A Passūs 5–8'
+  type: article-journal
+  volume: '88'

@@ -1,0 +1,40 @@
+references:
+- id: CorneliusMedievalManuscriptsLoyola2023
+  abstract: >-
+    This article provides a summary overview of the collection of pre-1600
+    western European manuscripts in Loyola University Chicago Archives and
+    Special Collections. The collection presently comprises four manuscript
+    codices, at least 38 fragments, and four documents. The codices are a
+    thirteenth-century Book of Hours from German-speaking lands; a
+    fifteenth-century Dutch prayerbook; a preacher’s compilation written
+    probably in southern Germany in the 1440s; and two fifteenth-century Italian
+    humanist booklets, bound together since the nineteenth century, transmitting
+    Donatus’s commentary on the *Eunuchus* (incomplete) and an anthology of
+    theological excerpts, respectively. The fragments consist of thirteen leaves
+    from books dismembered by modern booksellers (most are from
+    fifteenth-century Books of Hours) and a larger number of binding fragments,
+    all but two of which remain *in situ*. These represent the remains of ten
+    manuscript books: four Latin liturgical books, two texts of Roman civil law,
+    one large-format thirteenth-century Italian Bible, one thirteenth-century
+    copy of Ptolemy’s *Almagest* in the translation of Gerard of Cremona, one
+    late fourteenth-century copy of the Ockhamist *Tractatus de principiis
+    theologiae*, and one fifteenth-century Dutch Book of Hours in the
+    translation of Geert Grote. Many of these materials have remained
+    unidentified until now.
+  author:
+    - family: Cornelius
+      given: Ian
+    - family: Young
+      given: Kathryn A.
+  citation-key: CorneliusMedievalManuscriptsLoyola2023
+  container-title: >-
+    Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript
+    Studies
+  issue: '2'
+  issued:
+    - year: 2023
+  license: All rights reserved
+  status: in press
+  title: Medieval manuscripts at Loyola University Chicago
+  type: article-journal
+  volume: '8'

@@ -1,0 +1,27 @@
+references:
+- id: CorneliusPrikConscience2014
+  accessed:
+    - year: 2014
+      month: 8
+      day: 13
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusPrikConscience2014
+  container-title: The Journal of English and Germanic Philology
+  container-title-short: JEGP
+  DOI: 10.5406/jenglgermphil.113.3.0400
+  ISSN: 0363-6941
+  issue: '3'
+  issued:
+    - year: 2014
+  license: Copyright © 2014 University of Illinois Press
+  page: 400-403
+  reviewed-author:
+    - family: Morey
+      given: James H.
+  source: JSTOR
+  title: 'Prik of Conscience'
+  type: article-journal
+  URL: http://www.jstor.org/stable/10.5406/jenglgermphil.113.3.0400
+  volume: '113'

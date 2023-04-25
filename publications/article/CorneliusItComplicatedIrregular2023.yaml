@@ -1,0 +1,34 @@
+references:
+- id: CorneliusItComplicatedIrregular2023
+  abstract: >-
+    Scholarship on the meter of fourteenth-century English alliterative verse
+    demonstrates that lines end with a trochaic constituent. *Piers Plowman* is
+    a recognized anomaly, yet there is disagreement about the extent of the
+    differences. Focusing on the B version of the poem, this essay examines line
+    endings with an irregular word division, syllable count, or vocalic quality.
+    Particular attention is given to lines ending in personal pronouns, *-ly*
+    adverbs, compounds in *-man*, compounds in *-nesse*, nouns in *-(i)oun*, and
+    gerunds. Prosodic constraints are identified by comparing the incidence of
+    each sequence at the close of the a-verse and b-verse. Many individual items
+    skew towards the norms of usage observed in other alliterative poems, yet,
+    more than other alliterative poets, Langland allows semantic and expository
+    priorities to override prosodic form.
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusItComplicatedIrregular2023
+  container-title: Chaucer Review
+  DOI: 10.5325/chaucerrev.58.2.0259
+  ISSN: 0009-2002
+  issue: '2'
+  issued:
+    - year: 2023
+  language: en
+  license: All rights reserved
+  page: 259-282
+  title: >-
+    It’s complicated: some irregular line-ending morphosyllabic sequences in
+    *Piers Plowman* B
+  title-short: It's complicated
+  type: article-journal
+  volume: '58'

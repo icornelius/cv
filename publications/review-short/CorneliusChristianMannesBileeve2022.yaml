@@ -1,0 +1,31 @@
+references:
+- id: CorneliusChristianMannesBileeve2022
+  accessed:
+    - year: 2022
+      month: 6
+      day: 23
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusChristianMannesBileeve2022
+  container-title: Anglia
+  DOI: 10.1515/ang-2022-0022
+  ISSN: 1865-8938
+  issue: '2'
+  issued:
+    - year: 2022
+      month: 6
+      day: 1
+  language: en
+  page: 271-274
+  publisher: De Gruyter
+  reviewed-author:
+    - family: Smith
+      given: Nicole D.
+  source: www.degruyter.com
+  title: >-
+    'A Christian Mannes Bileeve. Edited from Washington, Library of Congress,
+    Rare Book and Special Collections, MS 4'
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/ang-2022-0022/html
+  volume: '140'

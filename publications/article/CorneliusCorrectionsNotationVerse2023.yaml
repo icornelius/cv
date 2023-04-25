@@ -1,0 +1,13 @@
+references:
+- id: CorneliusCorrectionsNotationVerse
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusCorrectionsNotationVerse
+  container-title: Filologia germanica
+  status: forthcoming
+  title: >-
+    Some corrections to the notation of verse structure in two recent editions
+    of Middle English alliterative poems
+  type: article-journal
+  volume: '15'

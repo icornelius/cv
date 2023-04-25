@@ -1,0 +1,22 @@
+references:
+- id: CorneliusPiersPlowmanBooks2019
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusPiersPlowmanBooks2019
+  container-title: The Journal of English and Germanic Philology
+  container-title-short: JEGP
+  DOI: 10.5406/jenglgermphil.118.1.0151
+  issue: '1'
+  issued:
+    - year: 2019
+      month: 1
+  license: All rights reserved
+  page: 151-154
+  reviewed-author:
+    - family: Davis
+      given: Rebecca
+  title: '"Piers Plowman" and the books of nature'
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.5406/jenglgermphil.118.1.0151
+  volume: '118'

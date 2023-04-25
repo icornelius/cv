@@ -1,0 +1,37 @@
+references:
+- id: CorneliusGrammarsRhetorics2017
+  abstract: >-
+    Grammar and rhetoric were the disciplines charged with teaching correct and
+    effective use of language in antiquity. In the Middle Ages, these
+    disciplines served to maintain Latin as a language of culture, religion, and
+    administration over much of Europe. Grammatical studies flourished in
+    medieval England following the conversion of the Anglo-Saxons to
+    Christianity. Subsequent developments in grammatical and rhetorical studies
+    in Britain in the Middle Ages track deep changes in the social conditioning
+    of literacy and social demands upon literacy. Among the medieval British
+    innovations in these disciplines were the teaching of Latin as a foreign
+    language, the cultural accommodation of grammar and rhetoric to
+    Christianity, the creation of new genres of rhetorical textbooks, and the
+    development of bilingual pedagogies that paired Latin with vernacular
+    languages.
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusGrammarsRhetorics2017
+  container-title: The encyclopedia of medieval literature in Britain
+  editor:
+    - family: Echard
+      given: Siân
+    - family: Rouse
+      given: Richard
+  event-place: Hoboken, NJ
+  ISBN: 978-1-118-39698-8
+  issued:
+    - year: 2017
+  license: All rights reserved
+  page: 912-925
+  publisher: John Wiley & Sons
+  publisher-place: Hoboken, NJ
+  title: Grammars and rhetorics
+  type: chapter
+  URL: https://ecommons.luc.edu/english_facpubs/91/

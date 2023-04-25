@@ -1,0 +1,19 @@
+references:
+- id: Cornelius1381YearPeasants2017
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: Cornelius1381YearPeasants2017
+  container-title: Yearbook of English Studies
+  DOI: 10.1484/J.YLS.5.114181
+  issued:
+    - year: 2017
+  license: All rights reserved
+  page: 304--7
+  reviewed-author:
+    - family: Barker
+      given: Juliet
+  title: "1381: the year of the Peasants' Revolt"
+  type: article-journal
+  URL: https://doi.org/10.1484/J.YLS.5.114181
+  volume: '31'

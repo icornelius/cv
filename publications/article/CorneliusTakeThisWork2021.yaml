@@ -1,0 +1,35 @@
+references:
+- id: CorneliusTakeThisWork2021
+  abstract: >-
+    Paul Eggert’s The Work and the Reader in Literary Studies: Scholarly Editing
+    and Book History elaborates a general program for the study of literature
+    centered on the question, “What is the thing read?” Concepts of document,
+    text, and work are parsed with care, generating many valuable insights and
+    clarifications, but there is need for more thinking about the linguistic
+    medium of literature. To textual studies, bibliography, and book history —
+    the trio of foundational disciplines advocated by Eggert — one should add
+    philology, or the study of literary language.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 20
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusTakeThisWork2021
+  container-title: Textual Cultures
+  DOI: 10.14434/tc.v14i1.32827
+  ISSN: 1933-7418
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 8
+      day: 9
+  language: en
+  license: Copyright (c) 2021
+  page: 39-49
+  source: scholarworks.iu.edu
+  title: Take this work global
+  type: article-journal
+  URL: https://scholarworks.iu.edu/journals/index.php/textual/article/view/32827
+  volume: '14'

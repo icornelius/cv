@@ -1,0 +1,120 @@
+---
+teaching:
+
+# Loyola
+
+-
+  institution: Loyola University Chicago
+  course:
+  - number: UCLR 100
+    title: "Interpreting Literature: Poetry, Fiction, Drama"
+    years: # Fall 2016, F17, S20, S23
+
+  - number: HONR 101
+    title: "Western Tradition: Antiquity and Middle Ages"
+    years: # 2018, F19, F23
+
+  - number: ENGL 271
+    title: Exploring Poetry
+    years: # Spring 2021
+
+  - number: ENGL 300
+    title: History of the English Language
+    years: 2023
+
+  - number: ENGL 322
+    title: Poems of Geoffrey Chaucer
+    years: 2017, 2020
+
+  - number: ENGL 323
+    title: "Studies in Medieval Literature: Dreams and Visions"
+    years: 2017
+
+  - number: ENGL 390
+    title: "Advanced Seminar: Medieval English Alliterative Poetry"
+    years: 2018
+
+  - number: ENGL 390
+    title: "Advanced Seminar: English Poetry from Manuscript to Print"
+    years: 2021, 2022
+
+  - number: ENGL 394
+    title: "Internship: Manuscripts of John Walton's *Boethius*"
+    years: 2017
+
+  - number: ENGL 412
+    title: History of the Book to 1800
+    years: 2022
+
+  - number: ENGL 441
+    title: Old English Language and Literature
+    years: 2017
+
+  - number: ENGL 447
+    title: Works of Geoffrey Chaucer
+    years: 2021
+
+# Newberry
+
+-
+  institution: The Newberry Library, Center for Renassiance Studies
+  course:
+  - number:
+    title: "Boethius's *Consolation of Philosophy* and its Afterlife"
+    years: 2019
+
+# Yale
+
+-
+  institution: Yale University
+  course:
+  - number: ENGL 114
+    title: Composition
+    years: # 2010--2015
+
+  - number: ENGL 125
+    title: "Major English Poets I: Chaucer, Spenser, Shakespeare, Donne"
+    years: # 2009--2015
+
+  - number: ENGL 130
+    title: "European Epic Tradition, *Odyssey* to *Ulysses*"
+    years: 2015, 2016
+
+  - number: ENGL 158
+    title: Readings in Middle English
+    years: 2010, 2014, 2015
+
+  - number: ENGL 169
+    title: Poems of Geoffrey Chaucer
+    years: 2011
+
+  - number: ENGL 172
+    title: Literary Approaches to the Past
+    years: 2013
+    collaborators: Eric Weiskott
+
+  - number: ENGL 402
+    title: Alliterative Poetry in Middle English
+    years: 2013, 2014
+
+  - number: ENGL 534
+    title: "*Piers Plowman*"
+    years: 2012, 2014
+
+  - number: ENGL 549
+    title: "Boethius's *Consolation of Philosophy* and its Afterlife"
+    years: 2016
+
+  - number: ENGL 567
+    title: Trilingual England
+    years: 2010
+
+# Penn
+
+-
+  institution: The University of Pennsylvania
+  course:
+  - number: ENGL 294.920
+    title: Introduction to Literary Theory
+    years: 2008
+---

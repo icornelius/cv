@@ -1,0 +1,21 @@
+references:
+- id: CorneliusProsodicProtocolsInterruptions2023
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusProsodicProtocolsInterruptions2023
+  container-title: The sound of writing
+  editor:
+    - family: Cannon
+      given: Christopher
+    - family: Justice
+      given: Steven
+  event-place: Baltimore
+  issued:
+    - year: 2023
+  license: All rights reserved
+  publisher: Johns Hopkins University Press
+  publisher-place: Baltimore
+  status: in press
+  title: Prosodic protocols and interruptions of them in *Piers Plowman*
+  type: chapter

@@ -1,0 +1,33 @@
+---
+bibliography:
+  chapter: cache/chapter.yaml
+  article: cache/article.yaml
+  book: cache/book.yaml
+  review-article: cache/review-article.yaml
+  review-short: cache/review-short.yaml
+nocite: |
+  @*
+csl: config/chicago-author-date-cv.csl
+---
+
+# Publications
+
+## Monograph {.unnumbered}
+::: {#refs-book}
+:::
+
+## Book chapters {.unnumbered}
+::: {#refs-chapter}
+:::
+
+## Journal articles {.unnumbered}
+::: {#refs-article}
+:::
+
+## Review articles {.unnumbered}
+::: {#refs-review-article}
+:::
+
+## Short reviews {.unnumbered}
+::: {#refs-review-short}
+:::

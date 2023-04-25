@@ -1,0 +1,40 @@
+---
+grants:
+  -
+    grantor: The Council on Library and Information Resources
+    item:
+    - award: Digitizing Hidden Special Collections and Archives
+      title: 'Peripheral Manuscripts: Digitizing Medieval Manuscript Collections in the Midwest'
+      collaborators:
+        - Elizabeth Hebbard (PI)
+        - Sarah Noonan
+        - Michelle Dalmau
+        - Ian Cornelius
+      years: 2020--2023
+
+  -
+    grantor: Loyola University Chicago
+    item:
+    - award: Faculty Development Award, supporting one semester of research leave
+      years: 2020
+    - award: Edward L. Surtz, S.J. Endowed Term Chair
+      years: 2016--2021
+
+  -
+    grantor: Yale University
+    item:
+    - award: Morse Fellowship, supporting two semesters of research leave
+      years: 2011/2012
+
+  -
+    grantor: University of Pennsylvania
+    item:
+    - award: Penn-in-London Fellowship
+      years: 2006/2007
+
+  -
+    grantor: Andrew W. Mellon Foundation
+    item:
+    - award: Fellowship in Humanistic Studies
+      years: 2003/2004
+---

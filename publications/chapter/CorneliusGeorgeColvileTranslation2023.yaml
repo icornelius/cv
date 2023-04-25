@@ -1,0 +1,26 @@
+references:
+- id: CorneliusGeorgeColvileTranslation2023
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusGeorgeColvileTranslation2023
+  container-title: 'Beyond scholasticism: literary theory and criticism in the later Middle Ages'
+  editor:
+    - family: Butterfield
+      given: Ardis
+    - family: Johnson
+      given: Ian
+    - family: Kraebel
+      given: Andrew
+  event-place: Cambridge
+  issued:
+    - year: 2023
+      month: 4
+      day: 20
+  language: en
+  license: All rights reserved
+  page: 220-248
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: George Colvile's translation of the *Consolation of Philosophy*
+  type: chapter

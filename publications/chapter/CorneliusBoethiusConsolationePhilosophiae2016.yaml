@@ -1,0 +1,28 @@
+references:
+- id: CorneliusBoethiusConsolationePhilosophiae2016
+  abstract: >-
+    A narrative history of the reception of Boethius’s Consolation of Philosophy
+    in Old and Middle English, with contextualizing discussion of medieval Latin
+    and French traditions.
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusBoethiusConsolationePhilosophiae2016
+  container-title: >-
+    The Oxford History of Classical Reception in English Literature, vol. 1:
+    800--1558
+  editor:
+    - family: Copeland
+      given: Rita
+  event-place: Oxford
+  ISBN: 978-0-19-958723-0
+  issued:
+    - year: 2016
+  language: en
+  license: All rights reserved
+  page: 269--98
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Boethius' *De consolatione philosophiae*
+  title-short: Boethius
+  type: chapter

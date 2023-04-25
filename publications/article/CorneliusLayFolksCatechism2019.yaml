@@ -1,0 +1,41 @@
+references:
+- id: CorneliusLayFolksCatechism2019
+  abstract: >-
+    The Lay Folks’ Catechism is an English rendering of injunctions issued in
+    1357 by John Thoresby, Archbishop of York, setting forth the elements of
+    Christian belief. Ever since W. W. Skeat’s treatments, the Catechism has
+    been placed in the general orbit of alliterative verse, yet closer
+    identifications have proved elusive. The text is now recorded in both The
+    Index of Middle English Verse and The Index of Middle English Prose; the
+    principal stylistic study proposes that John Gaytryge, the author of the
+    English text, may have been influenced by the system of Latin prose rhythm
+    known as cursus. Renewed treatment must begin by establishing an accurate
+    and authoritative text. Collation of the two best copies, York, Borthwick
+    Institute, MS Abp Reg 11 and Oxford, Bodleian Library, MS Don.c.13, confirms
+    the general authority of the York copy. Recent studies of alliterative metre
+    allow Gaytryge’s composition to be distinguished with confidence from that
+    English verse form. Affiliations to Latin cursus are more difficult to
+    assess, but doubtful: more likely influences are the Latin of the Creed,
+    Pater noster, and other pastoralia, and the plain style that preachers were
+    instructed to adopt in preaching to the laity. The form of the Catechism may
+    have been a deliberate innovation: a new plain style in the vernacular,
+    aiming to embody the priorities of pastoral instruction.
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusLayFolksCatechism2019
+  container-title: The Review of English Studies
+  container-title-short: RES
+  DOI: 10.1093/res/hgy107
+  ISSN: 1471-6968
+  issue: '293'
+  issued:
+    - year: 2019
+      month: 2
+  language: en
+  license: All rights reserved
+  page: 14–36
+  title: '*The Lay Folks’ Catechism*, alliterative verse, and *cursus*'
+  type: article-journal
+  URL: http://ecommons.luc.edu/english_facpubs/60
+  volume: '70'

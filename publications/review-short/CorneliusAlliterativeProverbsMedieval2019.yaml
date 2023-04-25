@@ -1,0 +1,20 @@
+references:
+- id: CorneliusAlliterativeProverbsMedieval2019
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusAlliterativeProverbsMedieval2019
+  container-title: Medium Ævum
+  issue: '1'
+  issued:
+    - year: 2019
+  license: All rights reserved
+  page: 160-1
+  reviewed-author:
+    - family: Deskis
+      given: Susan E.
+  title: >-
+    'Alliterative proverbs in medieval England: language choice and literary
+    meaning'
+  type: article-journal
+  volume: '88'

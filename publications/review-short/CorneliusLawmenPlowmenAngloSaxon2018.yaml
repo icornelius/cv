@@ -1,0 +1,20 @@
+references:
+- id: CorneliusLawmenPlowmenAngloSaxon2018
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusLawmenPlowmenAngloSaxon2018
+  container-title: Medium Ævum
+  issue: '1'
+  issued:
+    - year: 2018
+  license: All rights reserved
+  page: 170-172
+  reviewed-author:
+    - family: Yeager
+      given: Stephen
+  title: >-
+    'From lawmen to plowmen: Anglo-Saxon legal tradition and the school of
+    Langland'
+  type: article-journal
+  volume: '87'

@@ -1,0 +1,29 @@
+references:
+- id: CorneliusDescriptionNarrativeMiddle2019
+  accessed:
+    - year: 2023
+      month: 4
+      day: 20
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusDescriptionNarrativeMiddle2019
+  container-title: Anglia
+  DOI: 10.1515/ang-2019-0043
+  ISSN: 1865-8938
+  issue: '3'
+  issued:
+    - year: 2019
+      month: 9
+      day: 13
+  language: en
+  page: 488-495
+  publisher: De Gruyter
+  reviewed-author:
+    - family: Turville-Petre
+      given: Thorlac
+  source: www.degruyter.com
+  title: 'Description and Narrative in Middle English Alliterative Poetry'
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/ang-2019-0043/html
+  volume: '137'

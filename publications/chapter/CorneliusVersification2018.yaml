@@ -1,0 +1,26 @@
+references:
+- id: CorneliusVersification2018
+  abstract: >-
+    This brief essay sets out a plan for teaching the form of Middle English
+    alliterative poetry in an advanced undergraduate seminar.
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusVersification2018
+  container-title: Approaches to teaching Langland's 'Piers Plowman'
+  editor:
+    - family: Goodmann
+      given: Thomas A.
+  event-place: New York
+  ISBN: 978-1-60329-339-6 978-1-60329-340-2
+  issued:
+    - year: 2018
+  language: English
+  license: All rights reserved
+  note: 'OCLC: 1013826328'
+  page: 60--66
+  publisher: Modern Language Association of America
+  publisher-place: New York
+  source: Open WorldCat
+  title: Versification
+  type: chapter

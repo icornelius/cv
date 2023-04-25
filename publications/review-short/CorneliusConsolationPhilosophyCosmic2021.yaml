@@ -1,0 +1,19 @@
+references:
+- id: CorneliusConsolationPhilosophyCosmic2021
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusConsolationPhilosophyCosmic2021
+  container-title: Speculum
+  ISSN: 0038-7134
+  issue: '3'
+  issued:
+    - year: 2021
+  language: en
+  page: 898-899
+  reviewed-author:
+    - family: Uhlfelder
+      given: Myra L.
+  title: 'The "Consolation of Philosophy" as Cosmic Image'
+  type: article-journal
+  volume: '96'

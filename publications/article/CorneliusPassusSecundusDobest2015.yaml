@@ -1,0 +1,49 @@
+references:
+- id: CorneliusPassusSecundusDobest2015
+  abstract: >-
+    John Burrow has argued that a program of rubrics recorded in many
+    manuscripts of Piers Plowman is organic to this poem in its B version. In
+    this article I demonstrate that a manuscript rubric known to Burrow but
+    omitted from his stemmatic reconstruction supplies further support for it:
+    the rubrication scheme reconstructable on the basis of attestations in one
+    of the two manuscript families explains the existence of a lone anomalous
+    rubric in a manuscript of the second main family. The implication is that
+    the full rubrication scheme was present in the common ancestor of both
+    families. This is a small point, but it has important implications for our
+    understanding of the internal organization, textual transmission, and
+    versional development of Langland’s poem.
+
+
+    The anomalous rubric at the center of my argument figures prominently in
+    Lawrence Warner’s 2011 book Lost History of ‘Piers Plowman’; there it is
+    offered as firm evidence that the B archetype was contaminated from a C
+    version manuscript. The account I offer is incompatible with Warner’s and is
+    intended to replace it. I conclude by elaborating the implications of this
+    position. The final two passus of the poem (B XIX-XX) are integral to the
+    currents of biblical and ecclesiastical history begun in passus XVI; this
+    great narrative arc reaches its apogee not in the vision of Christ’s
+    Crucifixion and the Harrowing of Hell (both passus XVIII), but about three
+    hundred lines into passus XIX, when the primitive Church begins to spread
+    the faith “as wyde as þe worlde is.” The archetypal rubrics identify the
+    final passus of the poem as the only full passus de dobest, and this is as
+    it should be: it is part of the Langland’s tragic vision of history that
+    there is no passus secundus de dobest.
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusPassusSecundusDobest2015
+  container-title: Medium Ævum
+  container-title-short: MÆ
+  DOI: 10.2307/45275369
+  ISSN: '00258385'
+  issue: '1'
+  issued:
+    - year: 2015
+  license: All rights reserved
+  page: 1-15
+  source: EBSCOhost
+  title: >-
+    *Passus secundus de dobest*: on the genesis of a rubric in the archetype of
+    *Piers Plowman* B
+  type: article-journal
+  volume: '84'

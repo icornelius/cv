@@ -1,0 +1,29 @@
+references:
+- id: CorneliusPiersPlowmanReinvention2021
+  accessed:
+    - year: 2023
+      month: 4
+      day: 20
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusPiersPlowmanReinvention2021
+  container-title: Anglia
+  DOI: 10.1515/ang-2021-0014
+  ISSN: 1865-8938
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 4
+      day: 1
+  language: en
+  page: 251-254
+  publisher: De Gruyter
+  reviewed-author:
+    - family: Thomas
+      given: Arvind
+  source: www.degruyter.com
+  title: '"Piers Plowman" and the reinvention of church law in the Late Middle Ages'
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/ang-2021-0014/html
+  volume: '139'

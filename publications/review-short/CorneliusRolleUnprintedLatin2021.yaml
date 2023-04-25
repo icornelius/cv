@@ -1,0 +1,24 @@
+references:
+- id: CorneliusRolleUnprintedLatin2021
+  accessed:
+    - year: 2023
+      month: 4
+      day: 20
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusRolleUnprintedLatin2021
+  container-title: The Medieval Review
+  ISSN: 1096-746X
+  issued:
+    - year: 2021
+  language: en
+  license: Copyright (c) 2021
+  reviewed-author:
+    - family: Hanna
+      given: Ralph
+  source: scholarworks.iu.edu
+  title: 'Richard Rolle: unprinted Latin writings'
+  type: article-journal
+  volume: 21.03.13
+  URL: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/32205/36017

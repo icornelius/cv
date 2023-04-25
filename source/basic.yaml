@@ -1,0 +1,47 @@
+---
+# Settings
+mainfont: Junicode
+lang: en-US
+
+# Personal details
+name: Ian Cornelius
+address:
+- Loyola University Chicago
+- 1032 W. Sheridan Road
+- Chicago, IL 60660
+phone: 773.508.2332
+email: icornelius@luc.edu
+# Insert URLs without http://
+website: icornelius.github.io
+
+# Appointments and education
+appointments:
+- years: 2016--present
+  institution: Loyola University Chicago
+  department: Department of English
+  title: Associate Professor
+  city:
+- years: 2009--2016
+  institution: Yale University
+  department: Department of English
+  title: Assistant Professor
+  city:
+
+education:
+- years: 2003--2009
+  degree: Ph.D., English Literature
+  institution: University of Pennsylvania
+  city:
+- years: 2006/2007
+  degree: Non-degree research student
+  institution: King's College, University of London
+  city:
+- years: 2000/2001
+  degree: Non-degree tutorial student in English literature
+  institution: Keble College, University of Oxford
+  city:
+- years: 1998--2002
+  degree: B.A., English Literature
+  institution: Washington University in St. Louis
+  city:
+---

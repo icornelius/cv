@@ -1,0 +1,26 @@
+references:
+- id: CorneliusLegacyBoethiusEngland2020
+  accessed:
+    - year: 2023
+      month: 4
+      day: 20
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusLegacyBoethiusEngland2020
+  container-title: The Medieval Review
+  ISSN: 1096-746X
+  issued:
+    - year: 2020
+  language: en
+  license: Copyright (c) 0
+  reviewed-author:
+    - family: McMullen
+      given: A. Joseph
+    - family: Weaver
+      given: Erica
+  source: scholarworks.iu.edu
+  title: 'The legacy of Boethius in medieval England'
+  type: article-journal
+  volume: '20.09.05'
+  URL: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/31405

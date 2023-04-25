@@ -1,0 +1,31 @@
+references:
+- id: CorneliusPennCommentaryPiers2019
+  accessed:
+    - year: 2023
+      month: 4
+      day: 20
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusPennCommentaryPiers2019
+  container-title: Anglia
+  DOI: 10.1515/ang-2019-0046
+  ISSN: 1865-8938
+  issue: '3'
+  issued:
+    - year: 2019
+      month: 9
+      day: 13
+  language: en
+  page: 502-506
+  publisher: De Gruyter
+  reviewed-author:
+    - family: Lawler
+      given: Traugott
+  source: www.degruyter.com
+  title: >-
+    'The Penn Commentary on "Piers Plowman". Volume 4: C Passūs 15–19; B Passūs
+    13–17'
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/ang-2019-0046/html
+  volume: '137'

@@ -1,0 +1,30 @@
+references:
+- id: CorneliusAccentualParadigmEarly2015
+  abstract: >-
+    An essay in the history of knowledge, tracing the nineteenth-century
+    emergence and consolidation of the thesis that Old English poetry was
+    accentual. Argues that this paradigm misrepresents central features of the
+    Old English meter and of the Middle English form that developed from it. See
+    now the version in Reconstructing Alliterative Verse.
+  accessed:
+    - year: 2016
+      month: 6
+      day: 30
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusAccentualParadigmEarly2015
+  container-title: The Journal of English and Germanic Philology
+  container-title-short: JEGP
+  DOI: 10.5406/jenglgermphil.114.4.0459
+  ISSN: 0363-6941
+  issue: '4'
+  issued:
+    - year: 2015
+  license: All rights reserved
+  page: 459-481
+  source: JSTOR
+  title: The accentual paradigm in early English metrics
+  type: article-journal
+  URL: http://www.jstor.org/stable/10.5406/jenglgermphil.114.4.0459
+  volume: '114'

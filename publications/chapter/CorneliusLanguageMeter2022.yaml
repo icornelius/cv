@@ -1,0 +1,24 @@
+references:
+- id: CorneliusLanguageMeter2022
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusLanguageMeter2022
+  container-title: What kind of a thing is a Middle English lyric?
+  editor:
+    - family: Cervone
+      given: Cristina Maria
+    - family: Watson
+      given: Nicholas
+  event-place: Philadelphia
+  ISBN: 978-0-8122-5390-0 978-0-8122-9851-2
+  issued:
+    - year: 2022
+  language: en
+  license: All rights reserved
+  page: 106-134
+  publisher: University of Pennsylvania Press
+  publisher-place: Philadelphia
+  title: Language and meter
+  type: chapter
+  URL:

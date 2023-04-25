@@ -1,0 +1,36 @@
+references:
+- id: CorneliusIntricaciesCountingFour2021
+  abstract: >-
+    The metrical theory devised by Eduard Sievers and refined by A. J. Bliss
+    forms the basis for most current scholarship on Old English meter. A
+    weakness of the Sievers–Bliss theory is that it occupies a middle ground
+    between two levels of analytic description, distinguished by Roman Jakobson
+    in an influential article as ‘verse instance’ and ‘verse design’. Metrists
+    in the Sievers–Bliss tradition employ a concept of metrical position (a key
+    component of verse design), yet the focus of attention usually remains on
+    the contours of stress of individual verses. Important exceptions are the
+    studies of Thomas Cable and Nicolay Yakovlev. The theoretical innovations of
+    Cable and Yakovlev, among others, enable a more concise presentation of
+    verse design than anyone writing on the subject has yet offered. The present
+    essay attempts to show what such a presentation might look like, while also
+    giving due acknowledgment to the complexities of position-count in this
+    meter. We presume no prior knowledge of the Sieversian system. Illustrations
+    are drawn principally from Cædmon’s Hymn and the Seafarer.
+  author:
+    - family: Cornelius
+      given: Ian
+    - family: Weiskott
+      given: Eric
+  citation-key: CorneliusIntricaciesCountingFour2021
+  container-title: Language and Literature
+  DOI: 10.1177/09639470211012297
+  ISSN: 0963-9470 1461-7293
+  issue: '3'
+  issued:
+    - year: 2021
+  license: All rights reserved
+  page: 249-275
+  title: The intricacies of counting to four in Old English poetry
+  type: article-journal
+  URL: http://ecommons.luc.edu/english_facpubs/85
+  volume: '30'

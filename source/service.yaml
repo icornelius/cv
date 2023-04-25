@@ -1,0 +1,196 @@
+---
+service:
+
+# University
+
+-
+  type: University and college service
+  item:
+  -
+    entity: Loyola University Chicago
+    subitem:
+    - subentity: Faculty Appeals Committee
+      position:
+      - title: member
+        years: 2022--2024
+
+  -
+    entity: Loyola University Chicago Faculty Council
+    subitem:
+    - subentity: CAS-Humanities Division
+      position:
+      - title: representative
+        years: 2020--present
+
+    - subentity: "*Ad hoc* Faculty Handbook Committee"
+      position:
+      - title: member
+        years: 2019--present
+      - title: co-chair
+        years: 2021--2022
+      - title: chair
+        years: 2023
+  -
+    entity: Undergraduate College, Yale University
+    subitem:
+    - subentity: Committee on Honors and Academic Standing
+      position:
+      - title: member
+        years: 2012--2015
+
+# Department
+
+-
+  type: Departmental and program service
+  item:
+  -
+    entity: Department of English, Loyola University Chicago
+    subitem:
+    - subentity: Department Council
+      position:
+      - title: member
+        years: 2018--2020, 2022--2023
+
+    - subentity: Tenure and Promotion Committee
+      position:
+      - title: member
+        years: 2019--2020, 2022--2023
+
+    - subentity: Undergraduate Programs Committee
+      position:
+      - title: member
+        years: 2016--2018
+
+    - subentity: Graduate Programs Committee
+      position:
+      - title: member
+        years: 2021--2022
+      - title: placement officer
+        years: 2018--2023
+
+    - subentity: MA Exam Committee
+      position:
+      - title: member
+        years: 2017--2018, 2022--2023
+      - title: chair
+        years: 2022--2023
+
+    - subentity: Edward Surtz, S.J. Memorial Lecture in the Humanities
+      position:
+      - title: lecture convener
+        years: 2016--2022
+
+  -
+    entity: Interdisciplinary Programs, Loyola University Chicago
+    subitem:
+    - subentity: Medieval Studies Program
+      position:
+      - title: interim co-director
+        years: 2019--2020
+
+  -
+    entity: Center for Textual Studies and Digital Humanities, Loyola University Chicago
+    subitem:
+    - subentity: Faculty Advisory Committee
+      position:
+      - title: member
+        years: 2018--present
+
+  -
+    entity: Department of English, Yale University
+    subitem:
+    - subentity: Aims and Procedures Committee
+      position:
+      - title: member
+        years: 2012--2016
+
+    - subentity: Committee on Lectures and Colloquia
+      position:
+      - title: member
+        years: 2012--2016
+
+    - subentity: Medieval Colloquium
+      position:
+      - title: faculty convener
+        years: 2012--2016
+
+    - subentity: Honors and Prizes Committee
+      position:
+      - title: member
+        years: 2009--2010, 2014--2016
+
+    - subentity: Graduate Admissions Committee
+      position:
+      - title: member
+        years: 2009--2010, 2014--2016
+
+    - subentity: Graduate Studies Committee
+      position:
+      - title: member
+        years: 2010--2011, 2012--2014
+      - title: diversity recruitment coordinator
+        years: 2012--2013
+
+# Other
+
+-
+  type: Professional service
+  item:
+  -
+    entity: American Association of University Professors
+    subitem:
+    - subentity: Loyola University Chicago Chapter
+      position:
+      - title: vice president
+        years: 2020--present
+
+  -
+    entity: "International *Piers Plowman* Society"
+    subitem:
+    - subentity: Executive Council
+      position:
+      - title: member
+        years: 2019--2022
+      - title: treasurer
+        years: 2020--2022
+    - subentity: Program Committee for the 2019 Congress
+      position:
+      - title: member
+        years:
+
+  -
+    entity: Society for Textual Scholarship
+    subitem:
+    - subentity: Executive Board
+      position:
+      - title: member
+        years: 2022--2024
+    - subentity: Program Committee for the 2022 Meeting
+      position:
+      - title: member
+        years:
+
+  -
+    entity: Illinois Medieval Association
+    subitem:
+    - subentity: Conference Committee for the 2018 Meeting
+      position:
+      - title: co-chair
+        years:
+
+  -
+    entity: New England Medieval Conference
+    subitem:
+    - subentity: Steering Committee
+      position:
+      - title: member
+        years: 2013--2015
+
+  -
+    entity: Medieval Academy of America
+    subitem:
+    - subentity: Local Arrangements Committee for the 2010 Meeting
+      position:
+      - title: co-chair
+        years:
+---

@@ -1,0 +1,21 @@
+references:
+- id: CorneliusEvolutionVerseStructure2019
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusEvolutionVerseStructure2019
+  container-title: Arthuriana
+  DOI: 10.1353/art.2019.0047
+  issue: '4'
+  issued:
+    - year: 2019
+      season: 4
+  page: 82-85
+  reviewed-author:
+    - family: Russom
+      given: Geoffrey
+  title: >-
+    'The Evolution of Verse Structure in Old and Middle English Poetry: From the
+    Earliest Alliterative Poems to Iambic Pentameter'
+  type: article-journal
+  volume: '29'

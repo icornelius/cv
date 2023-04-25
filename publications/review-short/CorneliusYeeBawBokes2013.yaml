@@ -1,0 +1,28 @@
+references:
+- id: CorneliusYeeBawBokes2013
+  accessed:
+    - year: 2014
+      month: 5
+      day: 30
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusYeeBawBokes2013
+  container-title: The Yearbook of Langland Studies
+  DOI: 10.1484/J.YLS.1.103847
+  issued:
+    - year: 2013
+  license: All rights reserved
+  page: 116-121
+  reviewed-author:
+    - family: Calabrese
+      given: Michael
+    - family: Shepherd
+      given: Stephen H. A.
+  source: MetaPress
+  title: >-
+    '"Yee? Baw for bokes": essays on medieval manuscripts and poetics in honor
+    of Hoyt N. Duggan'
+  type: article-journal
+  URL: https://doi.org/10.1484/J.YLS.1.103847
+  volume: '27'
