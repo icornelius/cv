@@ -1,6 +1,8 @@
 #!/bin/bash
 
+OUTPUT=cornelius-cv.pdf
 DEST=cache
+
 mkdir -p $DEST/
 if [ ! -d "$DEST" ]; then
   echo "Could not create target $DEST (fatal)"
@@ -21,4 +23,4 @@ done
 
 popd
 
-pandoc source/*.yaml -r markdown --template=config/template.tex --lua-filter=multibib.lua --citeproc --pdf-engine=xelatex -o docs/files/cornelius-cv.pdf
+pandoc source/*.yaml -r markdown --template=config/template.tex --lua-filter=multibib.lua --citeproc --pdf-engine=xelatex -o $OUTPUT
