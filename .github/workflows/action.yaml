@@ -25,7 +25,7 @@ jobs:
         uses: schmiddim/action-wget-unzip@v2
         with:
           url: https://github.com/psb1558/Junicode-font/archive/refs/tags/v1.003.zip
-          destination: $HOME/.fonts
+          destination: .fonts
       - name: Verify dependencies
         run: |
           pandoc --version
