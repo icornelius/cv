@@ -31,8 +31,7 @@ jobs:
           pandoc --version
           xetex --version
           ls multibib.lua
-          fc-cache
-          fc-list | grep Junicode
+          ls .fonts
       - name: Build
         run: bash build.sh
       - name: Check for Resulting PDF
