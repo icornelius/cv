@@ -39,6 +39,8 @@ jobs:
           xetex --version
           ls multibib.lua
           ls .fonts
+          fc-cache -E .fonts
+          fc-list | grep Junicode
 
       - name: Build
         run: bash build.sh
