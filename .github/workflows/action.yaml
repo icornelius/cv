@@ -22,7 +22,7 @@ jobs:
       - name: Download lua-filter
         run: wget https://raw.githubusercontent.com/pandoc-ext/multibib/main/_extensions/multibib/multibib.lua
       - name: Download mainfont
-        uses: actions/schmiddim-wget-unzip@v1
+        uses: schmiddim/action-wget-unzip@v2
         with:
           url: https://github.com/psb1558/Junicode-font/archive/refs/tags/v1.003.zip
           destination: $HOME/.fonts
