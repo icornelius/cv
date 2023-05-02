@@ -1,11 +1,8 @@
-This repository builds my cv.
+This repository hosts [my cv](https://github.com/icornelius/cv/releases/latest/download/cornelius-cv.pdf).
 Content is serialized in `yaml` format in the `/publications` and `/source` directories.
 Presentation is controlled by LaTeX and Citation Style Language templates in the `/config` directory.
 The executable `build.sh` gathers components and feeds them to `pandoc`.
-The output, `cornelius-cv.pdf`, is written to `/docs/files`.
-
-The `pandoc` command presumes that the lua filter [`multibib.lua`](https://github.com/pandoc-ext/multibib) is available.
-This filter is used to generate the lists of publications, as provided in the Markdown payload of `/source/publications.yaml`.
+Build and deployment is done with GitHub Actions.
 
 I reuse and adapt code from the repositories [gkthiruvathukal/cv], [mrzool/cv-boilerplate], and [jgm/pandoc-templates].
 
