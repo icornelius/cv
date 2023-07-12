@@ -1,11 +1,15 @@
 references:
-- id: CorneliusCorrectionsNotationVerse
+- id: CorneliusCorrectionsNotationVerse2023
   author:
     - family: Cornelius
       given: Ian
-  citation-key: CorneliusCorrectionsNotationVerse
-  container-title: Filologia germanica
-  status: forthcoming
+  citation-key: CorneliusCorrectionsNotationVerse2023
+  container-title: Filologia Germanica – Germanic Philology
+  issued:
+    - year: 2023
+  license: All rights reserved
+  page: 23-41
+  status: In press
   title: >-
     Some corrections to the notation of verse structure in two recent editions
     of Middle English alliterative poems
