@@ -1,0 +1,25 @@
+references:
+- id: CorneliusNotationVerseStructureManuscriptsInpress
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusNotationVerseStructureManuscriptsInpress
+  container-title: A history of punctuation in English literature
+  editor:
+    - family: Bonapfel
+      given: Elizabeth
+    - family: Faulkner
+      given: Mark
+    - family: Lennard
+      given: John
+    - family: Gutierrez
+      given: Jeffrey
+  issued:
+    - year: 
+  license: All rights reserved
+  page:
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  status: forthcoming
+  title: The notation of verse structure in manuscripts of *Piers Plowman*
+  type: chapter
