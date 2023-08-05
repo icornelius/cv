@@ -3,25 +3,21 @@ service:
 
 # University
 
--
-  type: University and college service
+- type: University and college service
   item:
-  -
-    entity: Loyola University Chicago
+  - entity: Loyola University Chicago
     subitem:
     - subentity: Faculty Appeals Committee
       position:
       - title: member
         years: 2022--2024
 
-  -
-    entity: Loyola University Chicago Faculty Council
+  - entity: Loyola University Chicago Faculty Council
     subitem:
     - subentity: CAS-Humanities Division
       position:
       - title: representative
         years: 2020--present
-
     - subentity: "*Ad hoc* Faculty Handbook Committee"
       position:
       - title: member
@@ -30,8 +26,8 @@ service:
         years: 2021--2022
       - title: chair
         years: 2023
-  -
-    entity: Undergraduate College, Yale University
+
+  - entity: Undergraduate College, Yale University
     subitem:
     - subentity: Committee on Honors and Academic Standing
       position:
@@ -40,11 +36,9 @@ service:
 
 # Department
 
--
-  type: Departmental and program service
+- type: Departmental and program service
   item:
-  -
-    entity: Department of English, Loyola University Chicago
+  - entity: Department of English, Loyola University Chicago
     subitem:
     - subentity: Department Council
       position:
@@ -80,24 +74,21 @@ service:
       - title: lecture convener
         years: 2016--2022
 
-  -
-    entity: Interdisciplinary Programs, Loyola University Chicago
+  - entity: Interdisciplinary Programs, Loyola University Chicago
     subitem:
     - subentity: Medieval Studies Program
       position:
       - title: interim co-director
         years: 2019--2020
 
-  -
-    entity: Center for Textual Studies and Digital Humanities, Loyola University Chicago
+  - entity: Center for Textual Studies and Digital Humanities, Loyola University Chicago
     subitem:
     - subentity: Faculty Advisory Committee
       position:
       - title: member
         years: 2018--present
 
-  -
-    entity: Department of English, Yale University
+  - entity: Department of English, Yale University
     subitem:
     - subentity: Aims and Procedures Committee
       position:
@@ -133,19 +124,23 @@ service:
 
 # Other
 
--
-  type: Professional service
+- type: Professional service
   item:
-  -
-    entity: American Association of University Professors
+  - entity: American Association of University Professors
     subitem:
     - subentity: Loyola University Chicago Chapter
       position:
       - title: vice president
         years: 2020--present
 
-  -
-    entity: "International *Piers Plowman* Society"
+  - entity: Illinois Medieval Association
+    subitem:
+    - subentity: Conference Committee for the 2018 Meeting
+      position:
+      - title: co-chair
+        years:
+
+  - entity: "International *Piers Plowman* Society"
     subitem:
     - subentity: Executive Council
       position:
@@ -158,8 +153,21 @@ service:
       - title: member
         years:
 
-  -
-    entity: Society for Textual Scholarship
+  - entity: Medieval Academy of America
+    subitem:
+    - subentity: Local Arrangements Committee for the 2010 Meeting
+      position:
+      - title: co-chair
+        years:
+
+  - entity: New England Medieval Conference
+    subitem:
+    - subentity: Steering Committee
+      position:
+      - title: member
+        years: 2013--2015
+
+  - entity: Society for Textual Scholarship
     subitem:
     - subentity: Executive Board
       position:
@@ -168,29 +176,5 @@ service:
     - subentity: Program Committee for the 2022 Meeting
       position:
       - title: member
-        years:
-
-  -
-    entity: Illinois Medieval Association
-    subitem:
-    - subentity: Conference Committee for the 2018 Meeting
-      position:
-      - title: co-chair
-        years:
-
-  -
-    entity: New England Medieval Conference
-    subitem:
-    - subentity: Steering Committee
-      position:
-      - title: member
-        years: 2013--2015
-
-  -
-    entity: Medieval Academy of America
-    subitem:
-    - subentity: Local Arrangements Committee for the 2010 Meeting
-      position:
-      - title: co-chair
         years:
 ---
