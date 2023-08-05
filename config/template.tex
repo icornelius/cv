@@ -11,6 +11,7 @@
 % Title styling
 \usepackage[rm,compact]{titlesec}
 \titleformat*{\subsection}{\sc}
+\titleformat*{\subsubsection}{\sc}
 
 % Do not indent paragraphs
 \setlength\parindent{0in}
@@ -141,7 +142,7 @@ $body$
 $if(teaching)$
   \section{Teaching}
   $for(teaching)$
-    \subsection*{$teaching.institution$}
+    \subsection{$teaching.institution$}
     $for(teaching.course)$
       {\footnotesize $teaching.course.number$}
       \emph{$teaching.course.title$}
@@ -165,8 +166,8 @@ $if(service)$
             {\small($service.item.subitem.position.years$)}\ignorespaces
             $endif$
           $endfor$
-        $endif$\\
-      $endfor$
+	$endif$\\
+      $endfor$[-.3cm]
     $endfor$
   $endfor$
 $endif$
