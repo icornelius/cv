@@ -1,0 +1,21 @@
+references:
+- id: NoonanRegionalCollaborationManuscripts2023
+  author:
+    - family: Noonan
+      given: Sarah
+    - family: Hebbard
+      given: Elizabeth
+    - family: Dalmau
+      given: Michelle
+    - family: Cornelius
+      given: Ian
+  citation-key: NoonanRegionalCollaborationManuscripts2023
+  container-title: Journal of the Early Book Society
+  container-title-short: JEBS
+  issued:
+    - year: 2023
+  language: en
+  status: in press
+  title: Regional collaboration and the Peripheral Manuscripts Project
+  type: article-journal
+  volume: '26'
