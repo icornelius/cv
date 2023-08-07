@@ -81,6 +81,11 @@ service:
       - title: interim co-director
         years: 2019--2020
 
+    - subentity: Interdisciplinary Working Group for the Study of Premodern Cultures
+      position:
+      - title: co-convener
+        years: 2021--present
+
   - entity: Center for Textual Studies and Digital Humanities, Loyola University Chicago
     subitem:
     - subentity: Faculty Advisory Committee
@@ -132,6 +137,13 @@ service:
       position:
       - title: vice president
         years: 2020--present
+
+  - entity: "*Filologia Germanica -- Germanic Philology*"
+    subitem:
+    - subentity: Scientific committee for volume 15 (2023)
+      position:
+      - title: member
+        years:
 
   - entity: Illinois Medieval Association
     subitem:
