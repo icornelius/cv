@@ -10,31 +10,60 @@ grants:
         - Sarah Noonan
         - Michelle Dalmau
         - Ian Cornelius
-      years: 2020--2023
+      dates:
+        begin:
+          year: 2020
+          month: 6
+        end:
+          year: 2024
+          month: 5
 
   -
     grantor: Loyola University Chicago
     item:
     - award: Faculty Development Award, supporting one semester of research leave
-      years: 2020
+      dates:
+        literal: 2020 # fall semester
     - award: Edward L. Surtz, S.J. Endowed Term Chair
-      years: 2016--2021
+      dates:
+        begin:
+          year: 2016
+          month: 8
+        end:
+          year: 2021
+          month: 6
 
   -
     grantor: Yale University
     item:
     - award: Morse Fellowship, supporting two semesters of research leave
-      years: 2011/2012
+      dates:
+        begin:
+          year: 2011
+          month: 7
+        end:
+          year: 2012
+          month: 6
 
   -
     grantor: University of Pennsylvania
     item:
     - award: Penn-in-London Fellowship
-      years: 2006/2007
+      dates:
+        begin:
+          year: 2006
+        end:
+          year: 2007
 
   -
     grantor: Andrew W. Mellon Foundation
     item:
     - award: Fellowship in Humanistic Studies
-      years: 2003/2004
+      dates:
+        begin:
+          year: 2003
+          month: 8
+        end:
+          year: 2004
+          month: 6
 ---

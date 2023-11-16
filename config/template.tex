@@ -105,7 +105,18 @@ $if(appointments)$
   $for(appointments)$
     \textsc{$appointments.institution$}\ignorespaces
     $if(appointments.city)$, $appointments.city$$endif$\\
-    \note{$appointments.years$}\emph{$appointments.title$}\\[.2cm]
+    $for(appointments.position)$
+      $if(appointments.position.dates.literal)$
+      \note{$it.dates.literal$}\ignorespaces
+      $elseif(appointments.position.dates.begin)$
+        $if(appointments.position.dates.end)$
+        \note{$it.dates.begin.year$--$it.dates.end.year$}\ignorespaces
+	$else$
+        \note{$it.dates.begin.year$--present}\ignorespaces
+	$endif$
+      $endif$
+      \emph{$it.title$}\\[.2cm]
+    $endfor$
   $endfor$
 $endif$
 
@@ -114,7 +125,16 @@ $if(education)$
   $for(education)$
     \textsc{$education.institution$}\ignorespaces
     $if(education.city)$, $education.city$$endif$\\
-    \note{$education.years$}\emph{$education.degree$}\\[.2cm]
+    $if(education.dates.literal)$
+    \note{$education.dates.literal$}\ignorespaces
+    $elseif(education.dates.begin)$
+      $if(education.dates.end)$
+      \note{$education.dates.begin.year$--$education.dates.end.year$}\ignorespaces
+      $else$
+      \note{$education.dates.begin.year$--present}\ignorespaces
+      $endif$
+    $endif$
+    \emph{$education.degree$}\\[.2cm]
   $endfor$
 $endif$
 
@@ -123,7 +143,16 @@ $if(grants)$
   $for(grants)$
     \textsc{$grants.grantor$}\\
     $for(grants.item)$
-      \note{$grants.item.years$}\emph{$grants.item.award$}\\
+      $if(grants.item.dates.literal)$
+        \note{$grants.item.dates.literal$}\ignorespaces
+      $elseif(grants.item.dates.begin)$
+        $if(grants.item.dates.end)$
+        \note{$grants.item.dates.begin.year$--$grants.item.dates.end.year$}\ignorespaces
+	$else$
+        \note{$grants.item.dates.begin.year$--present}\ignorespaces
+	$endif$
+      $endif$
+      \emph{$grants.item.award$}\\
       $if(grants.item.collaborators)$
 	$for(grants.item.collaborators)${\small $it$}$sep$, $endfor$\\
       $endif$
@@ -146,7 +175,7 @@ $if(teaching)$
     $for(teaching.course)$
       {\footnotesize $teaching.course.number$}
       \emph{$teaching.course.title$}
-      $if(teaching.course.years)${\small ($teaching.course.years$)}$endif$\\
+      $if(teaching.course.dates)${\small ($teaching.course.dates$)}$endif$\\
     $endfor$
   $endfor$
 $endif$
@@ -162,8 +191,18 @@ $if(service)$
         $if(service.item.subitem.position)$
           $for(service.item.subitem.position)$
           {\small, $it.title$}
-            $if(service.item.subitem.position.years)$
-            {\small($service.item.subitem.position.years$)}\ignorespaces
+            $if(service.item.subitem.position.dates)$
+	      $if(service.item.subitem.position.dates.literal)$
+                {\small($service.item.subitem.position.dates.literal$)}\ignorespaces
+              $elseif(service.item.subitem.position.dates.begin)$
+                $if(service.item.subitem.position.dates.end)$
+                  {\small($service.item.subitem.position.dates.begin.year$--$service.item.subitem.position.dates.end.year$)}\ignorespaces
+	        $else$
+	          {\small($service.item.subitem.position.dates.begin.year$--present)}\ignorespaces
+		$endif$
+              $elseif(service.item.subitem.position.dates.end)$
+                {\small($service.item.subitem.position.dates.end.year$)}\ignorespaces
+              $endif$
             $endif$
           $endfor$
 	$endif$\\

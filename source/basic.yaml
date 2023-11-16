@@ -16,32 +16,58 @@ website: icornelius.github.io
 
 # Appointments and education
 appointments:
-- years: 2016--present
-  institution: Loyola University Chicago
-  department: Department of English
-  title: Associate Professor
+- institution: Loyola University Chicago
   city:
-- years: 2009--2016
-  institution: Yale University
   department: Department of English
-  title: Assistant Professor
+  position:
+    title: Associate Professor
+    dates:
+      begin:
+        year: 2016
+        month: 8
+      end:
+- institution: Yale University
   city:
+  department: Department of English
+  position:
+    title: Assistant Professor
+    dates:
+      begin:
+        year: 2009
+        month: 8
+      end:
+        year: 2016
+        month: 6
 
 education:
-- years: 2003--2009
+- institution: University of Pennsylvania
+  city:
   degree: Ph.D., English Literature
-  institution: University of Pennsylvania
+  dates:
+    begin:
+      year: 2003
+      month: 8
+    end:
+      year: 2009
+      month: 5
+- institution: King's College, University of London
   city:
-- years: 2006/2007
   degree: Non-degree research student
-  institution: King's College, University of London
+  dates:
+    literal: 2006/2007
+- institution: Keble College, University of Oxford
   city:
-- years: 2000/2001
   degree: Non-degree tutorial student in English literature
-  institution: Keble College, University of Oxford
+  dates:
+    literal: 2000/2001
+- institution: Washington University in St. Louis
   city:
-- years: 1998--2002
   degree: B.A., English Literature
-  institution: Washington University in St. Louis
-  city:
+  dates:
+    begin:
+      year: 1998
+      month: 8
+    end:
+      year: 2002
+      month: 5
 ---
