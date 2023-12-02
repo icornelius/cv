@@ -1,0 +1,29 @@
+references:
+- id: Cornelius2023WoodPiersPlowman
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: Cornelius2023WoodPiersPlowman
+  container-title: Anglia
+  DOI: 10.1515/ang-2023-0039
+  ISSN: 1865-8938
+  issue: '4'
+  issued:
+    - year: 2023
+      month: 12
+      day: 1
+  language: en
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 658-660
+  publisher: De Gruyter
+  reviewed-author:
+    - family: Wood
+      given: Sarah
+  source: www.degruyter.com
+  title: 'Piers Plowman and its Manuscript Tradition'
+  type: article-journal
+  URL: https://www.degruyter.com/document/doi/10.1515/ang-2023-0039/html
+  volume: '141'
