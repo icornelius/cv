@@ -35,7 +35,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>The author-date variant of the Chicago style, modified for use in a cv</summary>
-    <updated>2023-04-29T12:00:00+00:00</updated>
+    <updated>2024-02-17T12:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -666,6 +666,7 @@
     <sort>
       <key macro="status-sort"/>
       <key variable="issued" sort="descending"/>
+      <key macro="contributors"/>
       <key variable="title"/>
     </sort>
     <layout suffix=".">
