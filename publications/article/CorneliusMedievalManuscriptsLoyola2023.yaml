@@ -30,6 +30,8 @@ references:
   container-title: >-
     Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript
     Studies
+  DOI: 10.1353/mns.2023.a916138
+  ISSN: "2381-5329 2381-5329"
   issue: '2'
   issued:
     - year: 2023
@@ -37,4 +39,5 @@ references:
   page: 387-398
   title: Medieval manuscripts at Loyola University Chicago
   type: article-journal
+  URL: https://muse.jhu.edu/article/916138
   volume: '8'
