@@ -7,11 +7,11 @@
 %--------------------------------
 % Margins
 \usepackage[left=1.5in,right=1in,top=1in,bottom=1in]{geometry} 
+\usepackage{changepage}
 
 % Title styling
 \usepackage[rm,compact]{titlesec}
 \titleformat*{\subsection}{\sc}
-\titleformat*{\subsubsection}{\sc}
 
 % Do not indent paragraphs
 \setlength\parindent{0in}
@@ -187,6 +187,7 @@ $if(service)$
     $for(service.item)$
       \subsubsection*{$service.item.entity$}
       $for(service.item.subitem)$
+      \begin{adjustwidth}{1em}{0em}
       \emph{$it.subentity$}\ignorespaces
         $if(service.item.subitem.position)$
           $for(service.item.subitem.position)$
@@ -206,7 +207,10 @@ $if(service)$
             $endif$
           $endfor$
 	$endif$\\
-      $endfor$[-.3cm]
+	[-.5cm]
+      \end{adjustwidth}
+      $endfor$
+      \vspace{.1cm}
     $endfor$
   $endfor$
 $endif$
