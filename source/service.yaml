@@ -18,7 +18,7 @@ service:
             year: 2024
             month: 6
 
-  - entity: Loyola University Chicago Faculty Council
+  - entity: Faculty Council, Loyola University Chicago
     subitem:
     - subentity: CAS-Humanities Division
       position:
@@ -86,9 +86,9 @@ service:
         dates:
           literal: 2019--2020, 2022--2024
 
-    - subentity: Undergraduate Programs Committee
+    - subentity: Undergraduate Programs
       position:
-      - title: member
+      - title: committee member
         dates:
           begin:
             year: 2016
@@ -97,28 +97,22 @@ service:
             year: 2018
             month: 6
 
-    - subentity: Graduate Programs Committee
+    - subentity: Graduate Programs
       position:
-      - title: member
+      - title: director
+        dates:
+          begin:
+            year: 2024
+            month: 7
+      - title: committee member
         dates:
           literal: 2021--2022, 2023--2024 # omitting spring 2023
       - title: placement officer
         dates:
-          literal: 2018--2020, 2021--present # omitting fall 2020
-
-    - subentity: MA Exam Committee
-      position:
-      - title: member
+          literal: 2018--2020, 2021--2024 # omitting fall 2020
+      - title: MA exam committee
         dates:
-          literal: 2017--2018, 2022--2023
-      - title: chair
-        dates:
-          begin:
-            year: 2022
-            month: 8
-          end:
-            year: 2023
-            month: 8
+          literal: 2017--2018, 2022--2023 # chair AY 2023
 
     - subentity: Edward Surtz, S.J. Memorial Lecture in the Humanities
       position:
