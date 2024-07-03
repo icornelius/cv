@@ -5,6 +5,7 @@ references:
       given: Ian
   citation-key: CorneliusEcologiesLatinPoeticsInpress
   container-title: Latin literatures in medieval and early modern times inside and outside Europe. A millennium history
+  DOI: 10.1075/chlel.xxxiv.30cor
   editor:
     - family: Stella
       given: Francesco
@@ -13,11 +14,10 @@ references:
     - family: Shanzer
       given: Danuta
   issued:
-    - year: 
+    - year: 2024
   license: All rights reserved
   page: 496-504
   publisher: John Benjamins
   publisher-place: Amsterdam
-  status: in press
   title: Ecologies of Latin poetics
   type: chapter
