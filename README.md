@@ -1,6 +1,6 @@
 This repository hosts [my cv](https://github.com/icornelius/cv/releases/latest/download/cornelius-cv.pdf).
-Content is serialized in `yaml` format in the `/publications` and `/source` directories.
-Presentation is controlled by LaTeX and Citation Style Language templates in the `/config` directory.
+Content is serialized in `yaml` format in the `publications/` and `source/` directories.
+Presentation is controlled by LaTeX and Citation Style Language templates in the `config/` directory.
 The executable `build.sh` gathers components and feeds them to `pandoc`.
 Build and deployment is done with GitHub Actions.
 
