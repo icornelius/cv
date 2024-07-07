@@ -1,10 +1,14 @@
 references:
-- id: CorneliusEcologiesLatinPoeticsInpress
+- id: Cornelius2024EcologiesLatinPoetics
   author:
     - family: Cornelius
       given: Ian
-  citation-key: CorneliusEcologiesLatinPoeticsInpress
-  container-title: Latin literatures in medieval and early modern times inside and outside Europe. A millennium history
+  citation-key: Cornelius2024EcologiesLatinPoetics
+  collection-number: '34'
+  collection-title: Comparative History of Literatures in European Languages
+  container-title: >-
+    Latin literatures in medieval and early modern times inside and outside
+    Europe. A millennium history
   DOI: 10.1075/chlel.xxxiv.30cor
   editor:
     - family: Stella
@@ -13,11 +17,16 @@ references:
       given: Lucie
     - family: Shanzer
       given: Danuta
+  event-place: Amsterdam
+  ISBN: 978-90-272-4729-2
   issued:
     - year: 2024
+      month: 6
+  language: en
   license: All rights reserved
   page: 496-504
   publisher: John Benjamins
   publisher-place: Amsterdam
   title: Ecologies of Latin poetics
   type: chapter
+  URL: https://www.doi.org/10.1075/chlel.xxxiv.30cor
