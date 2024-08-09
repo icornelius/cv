@@ -29,7 +29,7 @@ service:
             month: 1
           end:
             year: 2024
-            month: 6
+            month: 5
     - subentity: "*Ad hoc* Faculty Handbook Committee"
       position:
       - title: member
@@ -38,6 +38,8 @@ service:
             year: 2019
             month: 10
           end:
+            year: 2024
+            month: 5
       - title: co-chair
         dates:
           begin:
@@ -53,7 +55,7 @@ service:
             month: 1
           end:
             year: 2024
-            month: 6
+            month: 5
 
   - entity: Undergraduate College, Yale University
     subitem:
@@ -232,6 +234,9 @@ service:
           begin:
             year: 2020
             month:
+          end:
+            year: 2024
+            month:
 
   - entity: "*Filologia Germanica -- Germanic Philology*"
     subitem:
@@ -299,7 +304,7 @@ service:
             month:
           end:
             year: 2024
-            month:
+            month: 12
     - subentity: Program Committee for the 2022 Meeting
       position:
       - title: member
