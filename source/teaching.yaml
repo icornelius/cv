@@ -20,7 +20,7 @@ teaching:
 
   - number: ENGL 300
     title: History of the English Language
-    dates: 2023
+    dates: 2023, 2025
 
   - number: ENGL 321
     title: Introduction to Old English
@@ -31,16 +31,12 @@ teaching:
     dates: 2017, 2020
 
   - number: ENGL 323
-    title: "Studies in Medieval Literature: Dreams and Visions"
-    dates: 2017
+    title: Studies in Medieval Literature
+    dates: 2017, 2024
 
   - number: ENGL 390
-    title: "Advanced Seminar: Medieval English Alliterative Poetry"
-    dates: 2018
-
-  - number: ENGL 390
-    title: "Advanced Seminar: English Poetry from Manuscript to Print"
-    dates: 2021, 2022
+    title: "Advanced Seminar"
+    dates: 2018, 2021, 2022
 
   - number: ENGL 394
     title: "Internship: Manuscripts of John Walton's *Boethius*"
