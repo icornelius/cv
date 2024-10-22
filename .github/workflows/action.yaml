@@ -27,22 +27,18 @@ jobs:
       - name: Download lua-filter
         run: wget https://raw.githubusercontent.com/pandoc-ext/multibib/main/_extensions/multibib/multibib.lua
 
-      - name: Download mainfont
-        uses: schmiddim/action-wget-unzip@v2
-        with:
-          url: https://github.com/psb1558/Junicode-font/archive/refs/tags/v1.003.zip
-          destination: .
-
-      - name: Set Path to mainfont
-        run: sed -i 's/setmainfont \[/&Path, /' config/template.tex
+      - name: Download and install mainfont
+        run: |
+          wget -O Junicode.zip https://github.com/psb1558/Junicode-font/releases/download/v2.209/Junicode_2.209.zip
+          unzip Junicode.zip
+          mv Junicode/ /usr/share/fonts
+          fc-cache -fv
 
       - name: Verify dependencies
         run: |
           pandoc --version
           xetex --version
           ls multibib.lua
-          grep setmainfont config/template.tex
-          ls Junicode*
 
       - name: Build
         run: bash build.sh
