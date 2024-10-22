@@ -1,0 +1,21 @@
+references:
+- id: CorneliusEnsleyTakamiya23Transcription
+  author:
+    - family: Cornelius
+      given: Ian
+    - family: Ensley
+      given: J. Eric
+  DOI: 10.5281/zenodo.13955352
+  issued:
+    - year: 2024
+      month: 10
+      day: 7
+  language: en
+  publisher: Zenodo
+  source: Zenodo
+  title: >-
+    A machine-readable provisional transcription of the *Piers Plowman* text of
+    Takamiya MS 23
+  type: dataset
+  URL: https://zenodo.org/records/13955352
+  version: '0.1'
