@@ -11,7 +11,7 @@ fi
 
 pushd publications
 
-for bibtype in article book chapter review-article review-short ; do
+for bibtype in article book chapter review-article review-short dataset ; do
   echo "Processing $bibtype"
   BIBFILE=../$DEST/${bibtype}.yaml
   > $BIBFILE

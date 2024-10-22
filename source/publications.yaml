@@ -5,6 +5,7 @@ bibliography:
   book: cache/book.yaml
   review-article: cache/review-article.yaml
   review-short: cache/review-short.yaml
+  dataset: cache/dataset.yaml
 nocite: |
   @*
 csl: config/chicago-author-date-cv.csl
@@ -30,4 +31,8 @@ csl: config/chicago-author-date-cv.csl
 
 ## Short reviews {.unnumbered}
 ::: {#refs-review-short}
+:::
+
+## Data-set {.unnumbered}
+::: {#refs-dataset}
 :::
