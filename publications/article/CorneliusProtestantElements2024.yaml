@@ -7,9 +7,11 @@ references:
       given: J. Eric
   container-title: The Review of English Studies
   container-title-short: RES
+  DOI: 10.1093/res/hgae069
+  ISSN: 1471-6968
   issued:
+    - year: 2024
   language: en
-  status: forthcoming
   page: 
   title: Protestant elements in the *Piers Plowman* texts of Robert Crowley and Takamiya MS 23
   type: article-journal
