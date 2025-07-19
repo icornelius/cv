@@ -17,6 +17,16 @@ service:
           end:
             year: 2024
             month: 6
+    - subentity: Faculty Development Review Committee
+      position:
+      - title: member
+        dates:
+          begin:
+            year: 2025
+            month: 8
+          end:
+            year: 2028
+            month: 6
 
   - entity: Faculty Council, Loyola University Chicago
     subitem:
