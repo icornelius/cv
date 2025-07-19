@@ -1,0 +1,17 @@
+references:
+- id: CorneliusVersefinalWordsMiddle2025
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: CorneliusVersefinalWordsMiddle2025
+  DOI: 10.5281/zenodo.15724220
+  issued:
+    - year: 2025
+      month: 6
+      day: 23
+  language: en
+  publisher: Zenodo
+  title: Verse-final words in the Middle English alliterative *Joseph of Arimathea*
+  type: dataset
+  URL: https://zenodo.org/records/15724220
+  version: v0.0
