@@ -248,6 +248,16 @@ service:
             year: 2024
             month:
 
+  - entity: Digital Index of Middle English Verse
+    subitem:
+    - subentity: Data curation
+      position:
+      - title: editor
+        dates:
+          begin:
+            year: 2025
+            month: 01
+
   - entity: "*Filologia Germanica -- Germanic Philology*"
     subitem:
     - subentity: Scientific committee for volume 15 (2023)
@@ -302,6 +312,16 @@ service:
           end:
             year: 2015
             month:
+
+  - entity: Peripheral Manuscripts Project
+    subitem:
+    - subentity: Advisory Board
+      position:
+      - title: member
+        dates:
+          begin:
+            year: 2025
+            month: 05
 
   - entity: Society for Textual Scholarship
     subitem:
