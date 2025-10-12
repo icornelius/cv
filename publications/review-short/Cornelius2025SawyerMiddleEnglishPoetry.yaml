@@ -1,0 +1,28 @@
+references:
+- id: Cornelius2025SawyerMiddleEnglishPoetry
+  author:
+    - family: Cornelius
+      given: Ian
+  citation-key: Cornelius2025SawyerMiddleEnglishPoetry
+  container-title: Anglia
+  DOI: 10.1515/ang-2025-0062
+  ISSN: 1865-8938
+  issue: '4'
+  issued:
+    - year: 2025
+      month: 12
+      day: 1
+  language: en
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 803-806
+  publisher: De Gruyter
+  reviewed-author:
+    - family: Sawyer
+      given: Daniel
+  source: www.degruyter.com
+  title: How to Read Middle English Poetry
+  type: article-journal
+  volume: '143'
