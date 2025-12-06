@@ -317,6 +317,16 @@ service:
 
   - entity: Peripheral Manuscripts Project
     subitem:
+    - subentity: Project Team
+      position:
+      - title: co-PI
+        dates:
+          begin:
+            year: 2020
+            month:
+          end:
+            year: 2023
+            month:
     - subentity: Advisory Board
       position:
       - title: member
