@@ -36,7 +36,7 @@ teaching:
 
   - number: ENGL 322
     title: Poems of Geoffrey Chaucer
-    dates: 2017, 2020
+    dates: 2017, 2020, 2026
 
   - number: ENGL 323
     title: Studies in Medieval Literature
@@ -49,6 +49,10 @@ teaching:
   - number: ENGL 394
     title: "Internship: Manuscripts of John Walton's *Boethius*"
     dates: 2017
+
+  - number: ENGL 406
+    title: History of the English Language
+    dates: 2026
 
   - number: ENGL 412
     title: History of the Book to 1800
