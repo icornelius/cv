@@ -1,0 +1,19 @@
+references:
+- id: CorneliusActionLanglandsThird
+  author:
+    - family: Cornelius
+      given: Ian
+  container-title: Thinking in Premodern Literature
+  editor:
+    - family: Karnes
+      given: Michelle
+    - family: Strub
+      given: Spencer
+  language: en
+  page:
+  publisher: Ohio State University Press
+  publisher-place: Columbus
+  status: forthcoming
+  title: "The action of Langland's third vision up to the end of A.11: the search for Do-Well"
+  type: chapter
+  DOI:
